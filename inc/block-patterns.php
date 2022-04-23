@@ -50,6 +50,7 @@ function exclusive_theme_register_block_patterns() {
         'header-default',
         'footer-default',
         'call-to-action',
+        'banner',
 	);
 
 	/**
