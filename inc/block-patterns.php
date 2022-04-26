@@ -51,6 +51,8 @@ function exclusive_theme_register_block_patterns() {
         'footer-default',
         'call-to-action',
         'banner',
+        'service-section',
+        'page-banner',
 	);
 
 	/**

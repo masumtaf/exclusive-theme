@@ -12,6 +12,17 @@
 			"area": "footer"
 		}
 	],
+	"customTemplates": [
+        {
+            "name": "page-banner",
+            "title": "Page Banner",
+			"postTypes": [
+                "page",
+                "post",
+                "my-cpt"
+            ]
+        }
+    ],
 	"settings": {
 		"appearanceTools": true,
 		"color": {
@@ -41,6 +52,11 @@
 					"slug": "fifth",
 					"color": "#E9D5DA",
 					"name": "Light Drak"
+				},
+				{
+					"slug": "dark",
+					"color": "#111",
+					"name": "Drak"
 				}
 			],
 			"gradients": [
