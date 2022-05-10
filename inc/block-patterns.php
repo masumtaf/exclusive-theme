@@ -53,6 +53,10 @@ function exclusive_theme_register_block_patterns() {
         'banner',
         'service-section',
         'page-banner',
+        'post-listing',
+        'contact-details',
+        'info-section',
+        'team-section',
 	);
 
 	/**

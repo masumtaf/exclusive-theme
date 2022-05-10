@@ -21,6 +21,14 @@
                 "post",
                 "my-cpt"
             ]
+        },
+		{
+            "name": "service-box",
+            "title": "Service Section",
+			"postTypes": [
+                "page",
+                "post"
+            ]
         }
     ],
 	"settings": {

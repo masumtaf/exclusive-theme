@@ -78,6 +78,16 @@ if ( ! function_exists( 'exclusive_theme_styles' ) ) :
 		wp_enqueue_style( 'exclusive_theme-style' );
 
 		wp_add_inline_style( 'load-exclusive-font-style', load_font_styles() );
+		
+		wp_register_style(
+			'exclusive-frontend-style',
+			EXSIT_URI . '/assets/css/frontend-block.css',
+			array(),
+			EXCLUSIVE_VERSION
+		);
+
+		wp_enqueue_style('exclusive-frontend-style');
+
 	}
 
 endif;
