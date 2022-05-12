@@ -10,8 +10,8 @@ return array(
                     <div class="wp-block-cover" style="padding-bottom:100px;min-height:1055px"><span aria-hidden="true" class="has-black-background-color has-background-dim-80 wp-block-cover__gradient-background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-27" alt="" src="' . esc_url( EXSIT_URI ) . 'assets/img/achievement-analysis-brainstorming-business-business-plan-caucasian-1448601-pxhere.com.jpg" style="object-position:48% 51%" data-object-fit="cover" data-object-position="48% 51%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","bottom":"0px"}}},"backgroundColor":"0oBneR","layout":{"wideSize":"1140px","contentSize":"860px"}} -->
                     <div class="wp-block-group has-0-o-bne-r-background-color has-background" style="padding-top:80px;padding-bottom:0px"><!-- wp:columns -->
                     <div class="wp-block-columns"><!-- wp:column -->
-                    <div class="wp-block-column"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"textColor":"forth","className":"financio-animate financio-move-up financio-delay-1","fontSize":"small"} -->
-                    <h2 class="has-text-align-center financio-animate financio-move-up financio-delay-1 has-forth-color has-text-color has-small-font-size" style="font-style:normal;font-weight:400">Our Services</h2>
+                    <div class="wp-block-column"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"textColor":"forth","fontSize":"small"} -->
+                    <h2 class="has-text-align-center has-forth-color has-text-color has-small-font-size" style="font-style:normal;font-weight:400">Our Services</h2>
                     <!-- /wp:heading -->
                     
                     <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"32px"}},"textColor":"white"} -->
@@ -38,8 +38,8 @@ return array(
                     </div>
                     <!-- /wp:group -->
 
-                    <!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"0px"}}},"className":"financio-animate financio-move-up financio-delay-3","layout":{"contentSize":"1140px"}} -->
-                    <div class="wp-block-group financio-animate financio-move-up financio-delay-3" style="padding-top:0px;padding-bottom:0px"><!-- wp:columns -->
+                    <!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"0px"}}},"layout":{"contentSize":"1140px"}} -->
+                    <div class="wp-block-group" style="padding-top:0px;padding-bottom:0px"><!-- wp:columns -->
                     <div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"padding":{"top":"50px","right":"40px","bottom":"50px","left":"40px"}}},"backgroundColor":"white","className":"financio-radius-10"} -->
                     <div class="wp-block-column financio-radius-10 has-white-background-color has-background" style="padding-top:50px;padding-right:40px;padding-bottom:50px;padding-left:40px">
 

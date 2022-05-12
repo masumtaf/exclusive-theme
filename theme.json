@@ -21,14 +21,6 @@
                 "post",
                 "my-cpt"
             ]
-        },
-		{
-            "name": "service-box",
-            "title": "Service Section",
-			"postTypes": [
-                "page",
-                "post"
-            ]
         }
     ],
 	"settings": {
@@ -65,6 +57,11 @@
 					"slug": "dark",
 					"color": "#111",
 					"name": "Drak"
+				},
+				{
+					"slug": "gray",
+					"color": "#f8f8f8",
+					"name": "Gray"
 				}
 			],
 			"gradients": [

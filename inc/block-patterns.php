@@ -55,8 +55,14 @@ function exclusive_theme_register_block_patterns() {
         'page-banner',
         'post-listing',
         'contact-details',
-        'info-section',
+        'about-info',
         'team-section',
+        'services-white-bg',
+        'testimonials-white-bg',
+        'testimonials-section',
+        'faq-section',
+        'google-map',
+        'info-boxes',
 	);
 
 	/**

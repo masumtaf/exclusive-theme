@@ -12,8 +12,8 @@ return array(
 
                     <!-- wp:column {"verticalAlignment":"center"} --><div class="wp-block-column is-vertically-aligned-center">
 
-                    <!-- wp:heading {"textAlign":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"textColor":"forth","className":"financio-animate financio-move-up financio-delay-1","fontSize":"small"} -->
-                    <h2 class="has-text-align-left financio-animate financio-move-up financio-delay-1 has-forth-color has-text-color has-small-font-size" style="font-style:normal;font-weight:400">About Us</h2>
+                    <!-- wp:heading {"textAlign":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"textColor":"forth","fontSize":"small"} -->
+                    <h2 class="has-text-align-left has-forth-color has-text-color has-small-font-size" style="font-style:normal;font-weight:400">About Us</h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:heading {"textAlign":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"32px"}},"textColor":"dark"} -->

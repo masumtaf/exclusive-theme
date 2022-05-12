@@ -34,16 +34,14 @@ if ( ! function_exists( 'exclusive_theme_support' ) ) :
 		// Enqueue editor styles.
 		add_editor_style( 'style.css' );
 
-			// This theme uses wp_nav_menu() in one location.
-			register_nav_menus(
-				array(
-					'menu-1' => esc_html__( 'Primary', 'exclusive-theme' ),
-					'menu-2' => esc_html__( 'Footer', 'exclusive-theme' ),
-					'menu-3' => esc_html__( 'SideBar', 'exclusive-theme' ),
-				)
-			);
-	
-
+		// This theme uses wp_nav_menu() in one location.
+		register_nav_menus(
+			array(
+				'menu-1' => esc_html__( 'Primary', 'exclusive-theme' ),
+				'menu-2' => esc_html__( 'Footer', 'exclusive-theme' ),
+				'menu-3' => esc_html__( 'SideBar', 'exclusive-theme' ),
+			)
+		);
 	}
 
 endif;
